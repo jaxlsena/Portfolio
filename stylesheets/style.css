@@ -1,0 +1,96 @@
+#name {
+  font-size: 4.5em;
+  display: inline;
+  margin-left: 1.5em;
+  color: white;
+  font-family: 'Poiret One', cursive;
+  font-weight:100;
+}
+
+html {
+  background: url("../images/portfolio_img1.jpg")
+  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.name-links {
+  width: 500px;
+  margin: 0 auto 0 auto;
+}
+
+.email-num {
+  float:right;
+  color: white;
+  font-family: 'Poiret One';
+  : none;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px 0 10px;
+}
+
+#contain {
+  margin: 15% auto 0 auto;
+  width: 500px;
+}
+
+
+.media {
+  display: inline;
+  margin: 0 auto;
+}
+
+
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+#number {
+  list-style-type: none;
+  font-family: 'Poiret One', cursive;
+  color: white;
+}
+a:visited {
+  text-decoration: none;
+  color: #8D8351;
+}
+
+.buttons:hover {
+  color: white;
+}
+
+
+.buttons {
+  font-size: 2em;
+  margin-right: 80px;
+  color: #8D8351;
+}
+
+
+a.media {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #8D8351;
+}
+
+.centered {
+  width: 500px;
+  margin-top: 4em;
+}
+
+.bio {
+  margin-left: 7em;
+  color: white;
+  font-family: 'Poiret One', cursive;
+}
+
+#lang {
+  margin-left: 38%;
+}
